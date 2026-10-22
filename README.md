@@ -4,7 +4,7 @@ CS-4103 Fundamentals of Machine Learning, University of Tulsa
 
 ## What is here
 
-- `assignment/Assignment 4.1.ipynb`, `assignment/Assignment 4.2.ipynb`, and `assignment/Assignment 4.3.ipynb`, the three notebooks you complete. 4.1 covers feed-forward networks on the handwritten digits, German Credit, and Mushroom datasets. 4.2 covers convolutional networks on Fashion-MNIST and MNIST. Both evaluate every model with 5-fold cross-validation. 4.3 covers scaled dot-product attention: you check it against the pretrained BERT model, watch BERT fill in a hidden word, and plot what its attention heads look at.
+- `assignment/Assignment 4.1.ipynb`, `assignment/Assignment 4.2.ipynb`, and `assignment/Assignment 4.3.ipynb`, the three notebooks you complete. 4.1 covers layered, feedforward networks on the handwritten digits, German Credit, and Mushroom datasets. 4.2 covers convolutional networks on Fashion-MNIST and MNIST. Both evaluate every model with 5-fold cross-validation. 4.3 covers scaled dot-product attention: you check it against the pretrained BERT model, watch BERT fill in a hidden word, and plot what its attention heads look at.
 - `data/`, German Credit and Mushroom. The digits dataset comes with scikit-learn. Fashion-MNIST and MNIST download into `data/` the first time 4.2 runs, and BERT downloads into the Hugging Face cache the first time 4.3 runs.
 - `assignment/Project 4 - Neural Networks, CNNs, and Transformers.pdf`, the project spec. The same PDF is posted on Harvey.
 
